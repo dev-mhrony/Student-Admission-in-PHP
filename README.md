@@ -19,6 +19,10 @@ It is a very simple project and I build it for **basic PHP** practise...
 - for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
 - Visit My Website : https://developerrony.com
 
+### Database Name
+- ccbd_admission
+
+
 ### Features:
 
 - Insert students
