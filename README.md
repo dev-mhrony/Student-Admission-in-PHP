@@ -17,3 +17,7 @@ It is a very simple project and I build it for **basic PHP** practise...
 - Update and delete student
 
 ### Preview
+
+![01 (2)](https://user-images.githubusercontent.com/78216965/222883589-e9f728a5-b693-4e9f-9eca-c669ca56f69a.png)
+
+![01 (1)](https://user-images.githubusercontent.com/78216965/222883586-55ec88f6-e32a-4b48-bdd0-287091c57b91.png)
